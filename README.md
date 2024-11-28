@@ -19,7 +19,7 @@ Due to ongoing project requirements and data-sharing restrictions, the dataset i
 Contributions to improve the project or extend its functionality are welcome. Please create a pull request or submit an issue if you have suggestions or feedback.  
 
 ## Paper Information
-This code is associated with the paper "Evolving Research Themes in Wood Science: Insights from Text Mining and Latent Dirichlet Allocation" (under review). The paper has been submitted to "Journal of Wood Science".
+This code is associated with the paper "Evolving Research Themes in Wood Science: Insights from Text Mining and Latent Dirichlet Allocation" (accepted). The paper has been submitted to "Journal of Wood Science".
 
 ### Paper Link
 Further information about the paper will be updated once it is published.
