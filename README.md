@@ -19,7 +19,7 @@ Due to ongoing project requirements and data-sharing restrictions, the dataset i
 Contributions to improve the project or extend its functionality are welcome. Please create a pull request or submit an issue if you have suggestions or feedback.  
 
 ## Paper Information
-This code is associated with the paper "Evolving research themes in six selected wood science journals: insights from text mining and latent dirichlet allocation". The paper has been submitted to "Journal of Wood Science".
+This code is associated with the paper "Evolving research themes in six selected wood science journals: insights from text mining and latent dirichlet allocation". The paper has been published in "Journal of Wood Science".
 
 ### Paper Link
 You can access the full text of the research paper related to this project at the link below:
